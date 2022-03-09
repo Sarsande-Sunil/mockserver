@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "grocerry": [
+    {
+      "title": "Chips",
+      "Price": "50 Rs",
+      "brand": "haldiram",
+      "id": 1
+    },
+    {
+      "title": "potato",
+      "Price": "55 Rs",
+      "brand": "bingo",
+      "id": 2
+    },
+    {
+      "title": "kitkat",
+      "Price": "46 Rs",
+      "brand": "kitkat",
+      "id": 3
+    },
+    {
+      "title": "maza",
+      "Price": "48 Rs",
+      "brand": "maza",
+      "id": 4
+    },
+    {
+      "title": "Butter",
+      "Price": "480 Rs",
+      "brand": "Amul",
+      "id": 5
+    },
+    {
+      "title": "Cheez",
+      "Price": "490 Rs",
+      "brand": "Amul",
+      "id": 6
+    },
+    {
+      "title": "Curd",
+      "Price": "90 Rs",
+      "brand": "Amul",
+      "id": 7
+    },
+    {
+      "title": "Paneer",
+      "Price": "360 Rs",
+      "brand": "Amul",
+      "id": 8
+    },
+    {
+      "title": "Ryata",
+      "Price": "360 Rs",
+      "brand": "MDH",
+      "id": 9
+    },
+    {
+      "title": "Allusev",
+      "Price": "60 Rs",
+      "brand": "Haldiram",
+      "id": 10
+    }
+  ]
+}
